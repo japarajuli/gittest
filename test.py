@@ -5,3 +5,5 @@ print(z)
 print("My name is Jagadish parajuli")
 # It is for tracking 
 ## Again adding third line 
+m=a^2
+print(m)
