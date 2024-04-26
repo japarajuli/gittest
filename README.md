@@ -7,4 +7,6 @@ How the git is working
 
 In 2024 i am working again it over here 
 
+It is the same working test from visual studio window 
+
 
